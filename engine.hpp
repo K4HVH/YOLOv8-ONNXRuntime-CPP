@@ -15,6 +15,7 @@ struct Detection {
 class YoloInferencer {
 public:
     YoloInferencer(std::wstring& modelPath, const char* logid, const char* provider);
+    ~YoloInferencer();
     std::vector<Detection> infer(cv::Mat& frame, float conf_threshold, float iou_threshold);
 
 private:

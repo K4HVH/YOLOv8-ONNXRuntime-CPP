@@ -141,6 +141,12 @@ YoloInferencer::YoloInferencer(std::wstring& modelPath, const char* logid, const
     }
 }
 
+// Destructor for the class
+YoloInferencer::~YoloInferencer() {
+    // The Ort::Session and other Ort:: objects will automatically release resources upon destruction
+    // due to their RAII design.
+}
+
 // This function does the preprocessing of the image and returns the tensor
 std::vector<Ort::Value> YoloInferencer::preprocess(cv::Mat& frame) {
 
