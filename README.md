@@ -27,11 +27,13 @@ cd yolov8-onnx-cpp
 ```
 
 2. **Install dependencies:**
+   
 Ensure that ONNX Runtime and OpenCV are installed on your system. You can find installation instructions for ONNX Runtime [here](https://onnxruntime.ai/).
 
 ### Compilation
 
 1. **Configure the project:**
+   
 Edit the `CMakeLists.txt` in the project root directory. Replace `"path/to/onnxruntime"` with the actual path to your ONNX Runtime installation directory.
 
 ``` scss
@@ -57,6 +59,7 @@ make
 ```
 
 2. **Test with your image:**
+   
 Modify the `imagePath` variable in `main.cpp` to point to your test image.
 
 ## Project Structure
