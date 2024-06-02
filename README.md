@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a C++ implementation of a YOLOv8 inference engine using the ONNX Runtime. It is heavily based on the project yolov8-onnx-cpp by FourierMourier. The primary goal of this implementation is to provide a streamlined and efficient object detection pipeline that can be easily modified to suit various client needs.
+This project is a C++ implementation of a YOLOv8 inference engine using the ONNX Runtime. It is heavily based on the project [yolov8-onnx-cpp by FourierMourier](https://github.com/FourierMourier/yolov8-onnx-cpp). The primary goal of this implementation is to provide a streamlined and efficient object detection pipeline that can be easily modified to suit various client needs.
 
 ## Features
 
