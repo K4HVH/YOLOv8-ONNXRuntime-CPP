@@ -115,4 +115,5 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 ## License
 This project is licensed under the GPL3.0 License.
 
-**Note:** This project borrows heavily from the original [yolov8-onnx-cpp repository](https://github.com/FourierMourier/yolov8-onnx-cpp). I have refactored and simplified the codebase to focus on object detection and improve performance.
+## Acknowledgments
+This project borrows heavily from the original [yolov8-onnx-cpp repository](https://github.com/FourierMourier/yolov8-onnx-cpp).
