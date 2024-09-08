@@ -2,7 +2,7 @@
 
 ### YOLOv10 Runtime is available here: [YOLOv10-ONNXRuntime-CPP](https://github.com/K4HVH/YOLOv10-ONNXRuntime-CPP)
 
-## BLOG
+## Blog
 
 You can find more in-depth discussion about this project on my [blog](https://k4tech.net/yolov8-onnxruntime-cpp/)
 
