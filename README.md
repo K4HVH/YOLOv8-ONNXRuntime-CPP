@@ -4,7 +4,7 @@
 
 ## BLOG
 
-You can find more in-depth discussion about this project on my blog: https://k4tech.net/yolov8-onnxruntime-cpp/
+You can find more in-depth discussion about this project on my **blog**: https://k4tech.net/yolov8-onnxruntime-cpp/
 
 ## Overview
 
