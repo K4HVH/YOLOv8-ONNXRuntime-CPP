@@ -2,6 +2,10 @@
 
 ### YOLOv10 Runtime is available here: [YOLOv10-ONNXRuntime-CPP](https://github.com/K4HVH/YOLOv10-ONNXRuntime-CPP)
 
+## BLOG
+
+You can find more in-depth discussion about this project on my blog: https://k4tech.net/yolov8-onnxruntime-cpp/
+
 ## Overview
 
 This project is a C++ implementation of a YOLOv8 inference engine using the ONNX Runtime. It is heavily based on the project [yolov8-onnx-cpp by FourierMourier](https://github.com/FourierMourier/yolov8-onnx-cpp). The primary goal of this implementation is to provide a streamlined and efficient object detection pipeline that can be easily modified to suit various client needs.
